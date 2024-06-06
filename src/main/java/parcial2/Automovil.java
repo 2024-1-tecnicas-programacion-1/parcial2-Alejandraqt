@@ -30,8 +30,5 @@ public class Automovil extends Vehiculo {
 
     public void setTipoCombustible(TipoCombustible tipocombustible) {
         this.tipoCombustible = tipocombustible;
-    }
-    
-    
-
+    }  
 }
